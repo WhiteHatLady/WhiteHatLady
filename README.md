@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Magdalena
-- 👀 I’m interested in CyberSecurityField. Specially Web Application Penetration Testing.
-- 🌱 I’m currently learning python with django. 
+- 👀 I’m pentester - Web Application Penetration Testing.
+- 🌱 I’m currently preper to OSWE exam.  
 - 📫 How to reach me mpwhitehatlady@gmail.com
 
 
